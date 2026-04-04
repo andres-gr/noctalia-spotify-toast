@@ -1,0 +1,26 @@
+{
+  "id": "spotify-art-toast",
+  "name": "Spotify Art Toast",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.7.0",
+  "author": "You",
+  "license": "GPL3",
+  "description": "Triggers notifications with Album Art for Spotify using native Quickshell services.",
+  "tags": [
+    "Music",
+    "Notifications"
+  ],
+  "entryPoints": {
+    "main": "Main.qml",
+    "settings": "Settings.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {
+      "showArtist": true,
+      "toastDuration": 2000
+    }
+  }
+}
