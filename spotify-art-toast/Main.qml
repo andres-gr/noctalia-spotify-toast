@@ -158,7 +158,7 @@ Item {
 
             color: "transparent"
 
-            WlrLayershell.layer:         WlrLayer.Top
+             WlrLayershell.layer:         WlrLayer.Overlay
             WlrLayershell.namespace:     "noctalia-spotify-toast"
             WlrLayershell.keyboardFocus: WlrKeyboardFocus.None
             WlrLayershell.exclusionMode: ExclusionMode.Ignore
