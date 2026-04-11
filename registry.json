@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    {
+      "id": "spotify-art-toast",
+      "name": "Spotify Art Toast",
+      "version": "1.0.2",
+      "minNoctaliaVersion": "4.7.0",
+      "author": "andres-gr",
+      "license": "GPL3",
+      "repository": "https://github.com/andres-gr/noctalia-spotify-toast",
+      "description": "Triggers notifications with Album Art for Spotify using native Quickshell services.",
+      "tags": [
+        "Media",
+        "Music",
+        "Notifications"
+      ]
+    }
+  ]
+}
